@@ -49,7 +49,7 @@
     <parent>
         <artifactId>jahia-modules</artifactId>
         <groupId>org.jahia.modules</groupId>
-        <version>8.0.0.0</version>
+        <version>8.0.3.0-SNAPSHOT</version>
     </parent>
     <artifactId>digitall</artifactId>
     <name>Digitall Demo</name>
@@ -64,9 +64,9 @@
     </scm>
 
   <properties>
-    <jahia-module-type>system</jahia-module-type>
-    <jahia-depends>default,dx-base-demo-components,dx-base-demo-core,dx-base-demo-templates,bookmarks</jahia-depends>
-    <jahia-module-signature>MCwCFCKOYXS1antqQiI/QveyTfe6Uh4bAhReP9+5eISgSb5ddnm71Rc/+B9ocw==</jahia-module-signature>
+      <jahia-module-type>system</jahia-module-type>
+      <jahia-depends>default,dx-base-demo-components,dx-base-demo-core,dx-base-demo-templates,bookmarks</jahia-depends>
+      <jahia-module-signature>MC0CFF2hy/kNGo9liAXkynlE2JTjDN9lAhUAhKS/qF0Bn/f86hbEpiTNnH05+gc=</jahia-module-signature>
   </properties>
 
     <repositories>
