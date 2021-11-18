@@ -66,7 +66,7 @@
   <properties>
       <jahia-module-type>system</jahia-module-type>
       <jahia-depends>default,dx-base-demo-components,dx-base-demo-core,dx-base-demo-templates,bookmarks</jahia-depends>
-      <jahia-module-signature>MC0CFF2hy/kNGo9liAXkynlE2JTjDN9lAhUAhKS/qF0Bn/f86hbEpiTNnH05+gc=</jahia-module-signature>
+      <jahia-module-signature>MCwCFBZyF/VfYE1jL0OY/4L1UCBCi7ikAhRajfFNrUaIXie1rIJyQmkLmu3ZHg==</jahia-module-signature>
   </properties>
 
     <repositories>
