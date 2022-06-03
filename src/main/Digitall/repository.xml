@@ -4441,7 +4441,6 @@
                                                                    jcr:lastModifiedBy=""
                                                                    jcr:mixinTypes="jmix:document"
                                                                    jcr:primaryType="jnt:file"
-                                                                   jcr:title="Digitall Financial Report"
                                                                    jcr:uuid="dd4e7f23-082a-420c-ae3d-9a05240701e7"
                                                                    j:publicationStatus="1">
                             <jcr:content j:lastExtractionDate="2016-12-13T16:34:33.027-05:00"
@@ -4470,7 +4469,6 @@
                                                     jcr:lastModifiedBy=""
                                                     jcr:mixinTypes="jmix:document"
                                                     jcr:primaryType="jnt:file"
-                                                    jcr:title="Untitled"
                                                     jcr:uuid="83f6a8bb-fa1d-4472-a2b5-b62bdf51264d"
                                                     j:publicationStatus="1">
                             <jcr:content j:lastExtractionDate="2016-12-13T16:34:33.071-05:00"
