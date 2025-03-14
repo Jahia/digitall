@@ -38,7 +38,7 @@
   <properties>
       <jahia-module-type>system</jahia-module-type>
       <jahia-depends>default,dx-base-demo-components,dx-base-demo-core,dx-base-demo-templates,bookmarks,legacy-default-components</jahia-depends>
-      <jahia-module-signature>MCwCFFHiWWORR9OFz84FQXbqwfEtWL+jAhQTggUFIw0WKMqTbuaEFZ5oiCqxcw==</jahia-module-signature>
+      <jahia-module-signature>MCwCFH8nMv5/Ikozr2gX0xEmXKSJHe1BAhRdcDTDKUrWgMpMy+eyL2zrOArkLA==</jahia-module-signature>
   </properties>
 
     <repositories>
